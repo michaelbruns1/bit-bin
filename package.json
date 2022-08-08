@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "bit-bin": "^14.8.8"
+  },
+  "stackblitz": {
+    "startCommand": "npm start"
   }
 }
