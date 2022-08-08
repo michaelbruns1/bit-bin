@@ -1,7 +1,7 @@
 {
   "name": "npm-tgbzhp",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bit-bin": "^14.8.8"
   },
